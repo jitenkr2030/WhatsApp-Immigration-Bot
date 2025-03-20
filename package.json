@@ -1,0 +1,39 @@
+{
+  "name": "whatsapp-immigration-bot",
+  "version": "1.0.0",
+  "description": "A WhatsApp-based AI Immigration Bot that automates the immigration process",
+  "main": "backend/index.js",
+  "scripts": {
+    "start": "node backend/index.js",
+    "dev": "nodemon backend/index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "whatsapp",
+    "immigration",
+    "bot",
+    "ai",
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "twilio": "^4.19.0",
+    "dotenv": "^16.3.1",
+    "pg": "^8.11.3",
+    "openai": "^4.17.4",
+    "tesseract.js": "^5.0.3",
+    "opencv4nodejs": "^5.6.0",
+    "langchain": "^0.0.197",
+    "stripe": "^14.5.0",
+    "winston": "^3.11.0",
+    "joi": "^17.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "jest": "^29.7.0",
+    "eslint": "^8.53.0",
+    "prettier": "^3.1.0"
+  }
+}

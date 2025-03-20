@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "category": "travel_purpose",
+      "questions": [
+        "What is the main purpose of your visit to our country?",
+        "How long do you plan to stay and what places do you intend to visit?",
+        "Have you visited our country before? If yes, when and for what purpose?",
+        "What activities do you plan to engage in during your stay?"
+      ]
+    },
+    {
+      "category": "financial_capability",
+      "questions": [
+        "How do you plan to finance your trip?",
+        "Can you provide details about your current employment and income?",
+        "What is your estimated budget for this trip?",
+        "Do you have travel insurance coverage for your stay?"
+      ]
+    },
+    {
+      "category": "ties_to_home_country",
+      "questions": [
+        "What is your current occupation in your home country?",
+        "What family or property ties do you have in your home country?",
+        "What ensures your return to your home country after the visit?",
+        "Can you describe your responsibilities back home?"
+      ]
+    },
+    {
+      "category": "travel_arrangements",
+      "questions": [
+        "Have you made your accommodation arrangements?",
+        "What is your planned itinerary?",
+        "Do you have confirmed return travel bookings?",
+        "Who will be accompanying you on this trip?"
+      ]
+    },
+    {
+      "category": "local_knowledge",
+      "questions": [
+        "What do you know about our country's culture and customs?",
+        "Are you aware of any travel restrictions or requirements?",
+        "Do you have any local contacts or references in our country?",
+        "How have you prepared for potential language barriers?"
+      ]
+    }
+  ]
+}

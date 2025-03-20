@@ -1,0 +1,39 @@
+{
+  "formType": "student-visa",
+  "sections": {
+    "personalInfo": {
+      "fullName": "",
+      "dateOfBirth": "",
+      "nationality": "",
+      "passportNumber": "",
+      "currentAddress": ""
+    },
+    "educationInfo": {
+      "highestQualification": "",
+      "institution": "",
+      "graduationYear": "",
+      "proposedStudy": {
+        "courseName": "",
+        "universityName": "",
+        "courseDuration": "",
+        "startDate": ""
+      }
+    },
+    "financialInfo": {
+      "annualIncome": "",
+      "bankBalance": "",
+      "sponsorshipDetails": {
+        "sponsorName": "",
+        "relationship": "",
+        "fundingAmount": ""
+      }
+    },
+    "documents": {
+      "passport": false,
+      "academicTranscripts": false,
+      "bankStatements": false,
+      "englishProficiency": false,
+      "admissionLetter": false
+    }
+  }
+}

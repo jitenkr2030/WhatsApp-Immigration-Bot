@@ -1,0 +1,43 @@
+{
+  "formType": "tourist-visa",
+  "sections": {
+    "personalInfo": {
+      "fullName": "",
+      "dateOfBirth": "",
+      "nationality": "",
+      "passportNumber": "",
+      "currentAddress": ""
+    },
+    "travelInfo": {
+      "purposeOfVisit": "",
+      "intendedStayDuration": "",
+      "accommodationDetails": {
+        "hotelName": "",
+        "address": "",
+        "bookingReference": ""
+      },
+      "travelDates": {
+        "arrival": "",
+        "departure": ""
+      },
+      "itinerary": []
+    },
+    "financialInfo": {
+      "annualIncome": "",
+      "bankBalance": "",
+      "travelInsurance": {
+        "provider": "",
+        "policyNumber": "",
+        "coverage": ""
+      }
+    },
+    "documents": {
+      "passport": false,
+      "bankStatements": false,
+      "hotelBookings": false,
+      "flightReservations": false,
+      "travelInsurance": false,
+      "invitationLetter": false
+    }
+  }
+}

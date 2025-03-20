@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "category": "professional_experience",
+      "questions": [
+        "Can you describe your current role and responsibilities in detail?",
+        "What specific skills and expertise will you bring to the position?",
+        "How does your previous work experience qualify you for this role?",
+        "What achievements in your career are you most proud of?"
+      ]
+    },
+    {
+      "category": "job_offer",
+      "questions": [
+        "What is your understanding of the role you've been offered?",
+        "Why did you choose this particular company and position?",
+        "What are the terms of your employment contract?",
+        "How does this position align with your career progression?"
+      ]
+    },
+    {
+      "category": "market_knowledge",
+      "questions": [
+        "What do you know about the industry sector in our country?",
+        "How does your expertise match the local market needs?",
+        "What research have you done about the local business environment?",
+        "How do you plan to adapt to the local work culture?"
+      ]
+    },
+    {
+      "category": "future_plans",
+      "questions": [
+        "What are your long-term career goals in this country?",
+        "How long do you plan to stay in this position?",
+        "What skills do you hope to develop in this role?",
+        "How will this experience contribute to your career development?"
+      ]
+    },
+    {
+      "category": "practical_arrangements",
+      "questions": [
+        "What arrangements have you made for accommodation?",
+        "Are you familiar with the cost of living in this area?",
+        "Have you researched the local healthcare and insurance requirements?",
+        "What support will you need to settle in the country?"
+      ]
+    }
+  ]
+}

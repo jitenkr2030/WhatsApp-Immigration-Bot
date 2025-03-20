@@ -1,0 +1,41 @@
+{
+  "formType": "work-visa",
+  "sections": {
+    "personalInfo": {
+      "fullName": "",
+      "dateOfBirth": "",
+      "nationality": "",
+      "passportNumber": "",
+      "currentAddress": ""
+    },
+    "professionalInfo": {
+      "occupation": "",
+      "currentEmployer": "",
+      "workExperience": "",
+      "skills": [],
+      "proposedEmployment": {
+        "jobTitle": "",
+        "employer": "",
+        "contractDuration": "",
+        "annualSalary": ""
+      }
+    },
+    "financialInfo": {
+      "annualIncome": "",
+      "bankBalance": "",
+      "employerSponsorship": {
+        "sponsorName": "",
+        "sponsorshipType": "",
+        "sponsorshipDetails": ""
+      }
+    },
+    "documents": {
+      "passport": false,
+      "resume": false,
+      "employmentContract": false,
+      "qualifications": false,
+      "bankStatements": false,
+      "jobOffer": false
+    }
+  }
+}

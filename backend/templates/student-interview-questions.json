@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "category": "academic_background",
+      "questions": [
+        "What is your field of study and why did you choose this particular program?",
+        "How does this course align with your academic and career goals?",
+        "Can you describe your previous academic achievements and qualifications?",
+        "What specific research or projects do you plan to undertake during your studies?"
+      ]
+    },
+    {
+      "category": "financial_preparation",
+      "questions": [
+        "How do you plan to finance your studies and living expenses?",
+        "Do you have any scholarships or financial aid?",
+        "Can you provide details about your sponsors, if any?",
+        "Have you researched the cost of living in the destination country?"
+      ]
+    },
+    {
+      "category": "post_study_plans",
+      "questions": [
+        "What are your plans after completing your studies?",
+        "How will this education benefit your home country?",
+        "Do you intend to return to your home country after graduation?",
+        "How does this program fit into your long-term career goals?"
+      ]
+    },
+    {
+      "category": "institution_choice",
+      "questions": [
+        "Why did you choose this particular institution?",
+        "What research have you done about the university and its facilities?",
+        "Are there similar programs available in your home country?",
+        "How does this institution's program compare to others you considered?"
+      ]
+    },
+    {
+      "category": "cultural_adaptation",
+      "questions": [
+        "How do you plan to adapt to the new cultural environment?",
+        "Have you researched the local customs and traditions?",
+        "Do you have any connections or support system in the destination country?",
+        "What challenges do you anticipate and how will you overcome them?"
+      ]
+    }
+  ]
+}
